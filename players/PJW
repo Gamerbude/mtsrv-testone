@@ -1,0 +1,89 @@
+breath = 11
+hp = 20
+name = PJW
+pitch = 89.5
+position = (1139.5,663.11,968.91)
+version = 1
+yaw = 262.6
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

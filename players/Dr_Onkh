@@ -1,0 +1,77 @@
+breath = 11
+hp = 20
+name = Dr_Onkh
+pitch = 21
+position = (1236.51,75,1396.51)
+version = 1
+yaw = 190.2
+PlayerArgsEnd
+List main 36
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

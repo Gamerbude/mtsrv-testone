@@ -1,0 +1,96 @@
+breath = 11
+hp = 20
+name = x0x
+pitch = -9.5
+position = (1181.39,-45,522)
+version = 1
+yaw = 242
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:birch_tree
+Item default:birch_leaves
+Item default:birch_wood 12
+Item default:birch_sapling
+Item creatures:sheep_spawn_egg 99
+Item birch:leaves
+Item birch:tree
+Item creatures:sheep_spawn_egg 99
+Empty
+Empty
+Empty
+Empty
+Item birch:wood 4
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

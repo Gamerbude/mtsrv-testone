@@ -1,0 +1,109 @@
+breath = 11
+hp = 20
+name = MBB
+pitch = -5.1
+position = (-6406.78,-916.91,2231.69)
+version = 1
+yaw = -82.55
+PlayerArgsEnd
+List main 36
+Width 0
+Item mesecons_extrawires:vertical_off 99
+Item carts:powerrail 99
+Item default:tree 99
+Item default:meselamp 99
+Item mesecons_detector:node_detector_off 99
+Item nether:rack 99
+Item default:lava_source 99
+Item nether:brick 99
+Item default:cobble
+Item default:birch_tree 99
+Item default:coalblock 99
+Item default:sandstone 99
+Item cottages:handmill 99
+Item default:dirt
+Item default:mese 99
+Item default:snowblock
+Item default:birch_wood 99
+Item mesecons:wire_00000000_off 99
+Item mesecons:wire_00000000_off 99
+Item mesecons_lightstone:lightstone_gray_off 99
+Item default:iron_lump
+Item mesecons_insulated:insulated_off 99
+Item doors:door_steel 99
+Item mesecons_luacontroller:luacontroller0000 99
+Item nuke:mese_tnt 5
+Item diamond_fist:fist
+Item default:coal_lump
+Item default:obsidian_glass
+Item carts:cart 96
+Item mesecons_random:ghoststone 99
+Item default:obsidian_glass 99
+Item mesecons_extrawires:corner_off 99
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Item mesecons_movestones:sticky_movestone
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

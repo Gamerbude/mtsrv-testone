@@ -1,0 +1,81 @@
+breath = 11
+hp = 20
+name = koerb
+pitch = 32.49
+position = (1099.49,166.59,906.73)
+version = 1
+yaw = 13.9
+PlayerArgsEnd
+List main 36
+Width 0
+Item pie:amuffinbatter
+Item compassgps:cgpsmap_marked 1 0 "return {[\"y\"] = 3.5, [\"x\"] = 103, [\"bkmrkname\"] = \"koerb's map\", [\"z\"] = 36}"
+Item pie:apie_0
+Item jukebox:disc_2
+Item pie:applemuffin
+Item glass:yellow
+Item default:cobble 91
+Item diamond_fist:fist
+Item default:tree 22078
+Item bucket:bucket_empty
+Item default:steel_ingot 94
+Item flowers:rose 12
+Item wool:white 32
+Item screwdriver:screwdriver 1 7567
+Item default:dirt 73
+Item default:desert_cobble 4
+Item jukebox:disc_3
+Item cottages:roof_connector_slate 39
+Item stairs:stair_stonebrick 62
+Item cottages:handmill
+Item default:coal_lump 15
+Item cottages:washing 2
+Item cottages:roof_connector_slate 47
+Item farming:bread 34303
+Item farming:straw 65420
+Item default:dirt 99
+Item default:stone 468
+Item appletree:tree 23
+Item default:stone 16322
+Item default:stone 32648
+Item default:ladder 76
+Item default:pick_steel 1 13832
+Item cottages:slate_vertical 6
+Item default:mese_crystal_fragment 80
+Item appletree:wood 61
+Item fences:fence_wood 4496
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item pie:knife
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 11
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

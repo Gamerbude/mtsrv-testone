@@ -1,0 +1,113 @@
+breath = 11
+hp = 20
+name = superuser
+pitch = 5
+position = (-4057.84,235,1197.5)
+version = 1
+yaw = -268.39
+PlayerArgsEnd
+List main 36
+Width 0
+Item default:sword_diamond 1 1615
+Item default:pick_diamond 1 3748
+Item mesecons_blinkyplant:blinky_plant_off
+Item default:dirt 99
+Item stairs:stair_birchwood 99
+Empty
+Item jukebox:box
+Item stairs:slab_birchwood 99
+Item wool:white 4
+Item creatures:chicken_flesh
+Item default:papyrus 9
+Item mesecons:wire_00000000_off
+Item creatures:shears 1 16375
+Item birch:sapling 99
+Item clay:white 2
+Item flowers:waterlily
+Item diamond_fist:fist
+Item default:wood 27
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:cobble 29
+Empty
+Empty
+Empty
+Empty
+Empty
+Item creatures:flesh 5
+Empty
+Item stairs:stair_cobble 6
+Item default:ladder 76
+Item default:chest 3
+Item default:dirt 99
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 12
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

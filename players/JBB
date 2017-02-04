@@ -1,0 +1,113 @@
+breath = 11
+hp = 20
+name = JBB
+pitch = 10.99
+position = (-3628.86,200.72,1280.95)
+version = 1
+yaw = 84
+PlayerArgsEnd
+List main 36
+Width 0
+Item default:cobble
+Item default:shears
+Item default:pine_tree
+Item diamond_fist:fist
+Item nether:rack
+Item default:obsidian_glass 99
+Item default:lava_source 99
+Item screwdriver:screwdriver
+Item cottages:wood_flat 99
+Item maple:sapling 4
+Item default:sapling
+Item default:dirt
+Item default:water_source 99
+Item default:stonebrick
+Item wool:white 25
+Item creatures:flesh 26
+Item creatures:rotten_flesh 5
+Item default:wood
+Item maple:tree
+Item birch:wood
+Item stairs:slab_fachwerk_maplewood 99
+Item flowers:waterlily 99
+Item default:gravel
+Item default:pine_needles 2
+Item moredoors:door_junglewood
+Item default:water_flowing
+Item default:water_source
+Item maple:sapling 99
+Item birch:tree 4
+Item birch:leaves 2
+Item default:pine_sapling 13
+Item default:snow
+Item default:torch 99
+Item default:grass_1
+Item farming:seed_wheat
+Item default:junglewood 2
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 23
+EndInventoryList
+List armor 6
+Width 0
+Item 3d_armor:helmet_admin
+Empty
+Item 3d_armor:chestplate_admin
+Empty
+Item 3d_armor:leggings_admin
+Item 3d_armor:boots_admin
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

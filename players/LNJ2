@@ -1,0 +1,96 @@
+breath = 11
+hp = 20
+name = LNJ2
+pitch = 31.89
+position = (-10137.4,314.34,1731.72)
+version = 1
+yaw = -89
+PlayerArgsEnd
+List main 32
+Width 0
+Item appletree:tree 3
+Item appletree:leaves 3
+Item default:apple 2
+Item appletree:sapling
+Item default:dirt 2
+Item default:cobble
+Item creatures:flesh 3
+Item creatures:oerrki_spawn_egg 99
+Item default:papyrus 7
+Item wool:brown 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,73 @@
+breath = 11
+hp = 5
+name = whoareyou
+pitch = -3.51
+position = (1558.18,-65,1587.8)
+version = 1
+yaw = 149.07
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:rail
+Item default:torch 9
+Item throwing:bow_steel
+Item throwing:arrow_fire
+Item default:junglesapling
+Empty
+Empty
+Item diamond_fist:fist
+Item default:obsidian_glass
+Item default:gravel
+Item creatures:flesh 4
+Item default:coal_lump
+Item default:iron_lump
+Item default:junglegrass
+Item default:dirt
+Item hardenedclay:hardened_clay_red
+Item default:clay_lump
+Item wool:white 4
+Item stairs:slab_glowstone 6
+Item birch:leaves
+Item default:cobble
+Item default:steelblock
+Item default:sign_wall
+Item default:wood
+Item mesecons_powerplant:power_plant
+Item cottages:hatch_wood
+Item flowers:viola
+Item stairs:stair_fachwerk_wool_dark_green
+Item stairs:stair_stonebrick 6
+Item fachwerk:glass
+Item creatures:rotten_flesh 5
+Item pipeworks:steel_block_embedded_tube
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

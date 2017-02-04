@@ -1,0 +1,73 @@
+breath = 11
+hp = 19
+name = SAM
+pitch = 34.9
+position = (1419.85,35,1565.71)
+version = 1
+yaw = -201.99
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:nyancat_rainbow
+Item default:nyancat
+Item default:shovel_diamond
+Item default:dirt
+Item glowstone:block
+Item cottages:barrel_open
+Item creatures:rotten_flesh
+Item mesecons_torch:mesecon_torch_on
+Item diamond_fist:fist
+Item default:goldblock 10
+Item firearms:m9
+Item default:mese_crystal
+Item default:obsidian_shard
+Item cottages:half_door_inverted
+Item firearms:awp
+Item firearms:bullet_556mm
+Item throwing:bow_steel
+Item firearms:bullet_12g
+Item default:diamondblock 10
+Empty
+Item default:shovel_bronze
+Item default:pick_bronze
+Empty
+Empty
+Empty
+Item default:axe_diamond
+Item default:mese_crystal_fragment
+Item default:pick_diamond
+Item default:axe_bronze
+Item default:sword_diamond
+Item throwing:arrow
+Item firearms:nvg
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Item 3d_armor:helmet_diamond
+Item 3d_armor:chestplate_diamond
+Item 3d_armor:leggings_diamond
+Empty
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,73 @@
+breath = 11
+hp = 12
+name = aspiremint
+pitch = -1.69
+position = (1321.94,39.5,645.34)
+version = 1
+yaw = 171.62
+PlayerArgsEnd
+List main 32
+Width 0
+Item cottages:fence_corner
+Item cottages:fence_small
+Item itemframes:pedestal
+Item fences:fence_wood
+Item default:cobble
+Item default:grass_1
+Item stairs:stair_cobble
+Item default:dirt_with_grass
+Item default:dirt
+Item craft_guide:lcd_pc
+Item default:stone
+Item jukebox:disc_4
+Item birch:wood
+Item default:coal_lump
+Item appletree:tree
+Item cottages:wagon_wheel
+Item fachwerk:clay_cross
+Item itemframes:frame
+Item cottages:gate_closed
+Item vessels:steel_bottle
+Item flowers:rose 4
+Item default:clay_lump
+Item mesecons_powerplant:power_plant
+Item flowers:geranium 7
+Item cottages:roof_flat_brown
+Item default:clay
+Item creatures:sheep_spawner
+Item mesecons_random:ghoststone
+Item default:tree
+Item carts:rail_copper
+Item wool:white 15
+Item creatures:flesh 8
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stick
+Item default:pinewood
+Item default:ladder
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

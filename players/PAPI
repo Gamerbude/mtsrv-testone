@@ -1,0 +1,73 @@
+breath = 11
+hp = 20
+name = PAPI
+pitch = -7.1
+position = (1287.29,35,978.39)
+version = 1
+yaw = 359.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stonebrick
+Item 3d_armor:boots_diamond
+Item 3d_armor:chestplate_diamond
+Item 3d_armor:helmet_diamond
+Item 3d_armor:leggings_diamond
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

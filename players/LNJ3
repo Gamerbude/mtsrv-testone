@@ -1,0 +1,96 @@
+breath = 11
+hp = 20
+name = LNJ3
+pitch = 13.92
+position = (-3494.48,287.5,-341.76)
+version = 1
+yaw = -261.83
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:cobble
+Item default:stonebrick 99
+Item stairs:slab_stonebrick 99
+Item default:dirt 4
+Item diamond_fist:fist
+Item default:fence_junglewood 99
+Item default:gravel
+Item carts:cart 96
+Item flowers:rose 12
+Item default:grass_1
+Item flowers:geranium
+Item screwdriver:screwdriver
+Item appletree:tree
+Item stairs:stair_stonebrick 99
+Item appletree:leaves 6
+Item default:torch
+Item default:apple 6
+Item appletree:sapling 2
+Item default:desert_sand
+Item default:desert_cobble
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

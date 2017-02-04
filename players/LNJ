@@ -1,0 +1,105 @@
+breath = 11
+hp = 20
+name = LNJ
+pitch = 21.09
+position = (657.67,17.59,-9776.03)
+version = 1
+yaw = 261.21
+PlayerArgsEnd
+List main 32
+Width 0
+Item diamond_fist:fist
+Item creatures:zombie_spawn_egg 100
+Item default:cobble 100
+Item fences:fence_wood
+Item default:fence_papyrus 100
+Item nametag:tag 100
+Item default:slab_stone 100
+Item stairs:stair_cobble
+Item default:pine_needles
+Item doors:door_wood 99
+Item stairs:stair_stonebrick 99
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:bonemeal 91
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
